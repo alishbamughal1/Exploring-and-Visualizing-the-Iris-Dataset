@@ -1,4 +1,4 @@
-# Task 1: Exploring and Visualizing the Iris Dataset
+# Exploring and Visualizing the Iris Dataset
 
 ##  Objective
 The objective of this task is to understand how to read, summarize, and visualize
